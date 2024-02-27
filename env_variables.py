@@ -1,0 +1,3 @@
+token= "cb30e0dc15aa462246502f6d67a73bd8"
+aws_access_key_id="AKIAW3MEFQRJXZRJ7XOQ"
+aws_secret_access_key="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"
