@@ -3,6 +3,6 @@
 Data Lake Design <br> <br>
 ![](https://github.com/bibek376/data_lake/blob/master/data/data-lake-project-diagram.png)
 
-Apache Airflow Task Run Diagram
+Apache Airflow Task Run Diagram <br> <br>
 ![](https://github.com/bibek376/data_lake/blob/master/data/task_run_diagram.png)
 
